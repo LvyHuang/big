@@ -1,24 +1,31 @@
-# news
+<h1 align="center">Welcome to News 👋</h1>
 
-## Project setup
-```
-npm install
-```
+> 使用Vue全家桶(vue-cli + vue2.0 + vuex + vue-router + axios )实现的实时新闻网页
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### 🏠 [Homepage](https://github.com/LvyHuang/news)
 
-### Compiles and minifies for production
-```
-npm run build
+### ✨ [Demo](https://LvyHuang.github.io/news/)
+
+## Install
+
+```sh
+yarn install
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Author
+
+👤 ** LvyHuang **
+
+* Github: [@LvyHuang](https://github.com/LvyHuang)
+
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+## Learn More
+To learn Vue, check out the [Vue documentation](https://cn.vuejs.org/v2/guide/).
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

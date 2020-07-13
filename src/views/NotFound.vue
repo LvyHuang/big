@@ -1,0 +1,18 @@
+<template>
+    <Center>
+        <img src="../assets/404.gif" alt="">
+    </Center>
+</template>
+
+<script>
+    import Center from "../components/Center"
+    export default {
+        Compontents:{
+            Center
+        }
+    }
+</script>
+
+<style scoped>
+
+</style>
